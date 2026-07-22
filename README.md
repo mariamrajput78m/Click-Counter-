@@ -41,9 +41,7 @@ Click-Counter/
 
 ## 🚀 Live Demo
 
-Coming Soon...
-
----
+https://mariamrajput78m.github.io/Click-Counter-/
 
 Made with ❤️ by Mariam
 ---
